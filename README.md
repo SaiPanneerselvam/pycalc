@@ -23,4 +23,4 @@ This tool calculates Pi using Py!
 Your output will be stored here.
 
 ### AUTHOR'S NOTE
-Originally I had a plan to calculate the most digits of pi ever, but my computer wasnt beefy enough to process it all (30000000002 or something), so I chose to publish to the web so others with beefier computers (better than the inspiron i used) to _maybe, just maybe_ have the next biggest digits of pi recorded. Though please add my name :)
+Originally I had a plan to calculate the most digits of pi ever, but my computer wasnt beefy enough to process it all (30000000002 or something), so I chose to publish to the web so others with beefier computers (better than the inspiron i used) to _maybe, just maybe_ have the next biggest digits of pi recorded. 
